@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d1fa0cc-bc53-4096-810d-2eff919c8ad5" name="Changes" comment="List Movies in &lt;ListMovies&gt; Component (with props and key)">
+    <list default="true" id="7d1fa0cc-bc53-4096-810d-2eff919c8ad5" name="Changes" comment="Should be able to add movies now:)">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsx" afterDir="false" />
     </list>
@@ -41,6 +45,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +75,7 @@
       <workItem from="1651426078296" duration="97000" />
       <workItem from="1651570480904" duration="4321000" />
       <workItem from="1651597863049" duration="46000" />
-      <workItem from="1651598697663" duration="1283000" />
+      <workItem from="1651598697663" duration="3442000" />
     </task>
     <task id="LOCAL−00001" summary="init">
       <created>1651406164909</created>
@@ -110,7 +131,13 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1651572183602</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="Should be able to add movies now:)">
+      <created>1651600706936</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1651600706936</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +163,7 @@
     <MESSAGE value="Navigate around in the app with React&#10;Router" />
     <MESSAGE value="List Movies in &lt;ListMovies&gt; Component" />
     <MESSAGE value="List Movies in &lt;ListMovies&gt; Component (with props and key)" />
-    <option name="LAST_COMMIT_MESSAGE" value="List Movies in &lt;ListMovies&gt; Component (with props and key)" />
+    <MESSAGE value="Should be able to add movies now:)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Should be able to add movies now:)" />
   </component>
 </project>
