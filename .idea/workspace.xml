@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d1fa0cc-bc53-4096-810d-2eff919c8ad5" name="Changes" comment="Fixed import react installs">
+    <list default="true" id="7d1fa0cc-bc53-4096-810d-2eff919c8ad5" name="Changes" comment="Navigate around in the app with React&#10;Router">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <workItem from="1651406119816" duration="2446000" />
       <workItem from="1651415295952" duration="3410000" />
       <workItem from="1651426078296" duration="97000" />
-      <workItem from="1651570480904" duration="428000" />
+      <workItem from="1651570480904" duration="1221000" />
     </task>
     <task id="LOCAL−00001" summary="init">
       <created>1651406164909</created>
@@ -91,7 +90,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1651416375637</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Navigate around in the app with React&#10;Router">
+      <created>1651570946359</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1651570946359</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
     <MESSAGE value="gitignore add" />
     <MESSAGE value="added Package.json" />
     <MESSAGE value="Fixed import react installs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed import react installs" />
+    <MESSAGE value="Navigate around in the app with React&#10;Router" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navigate around in the app with React&#10;Router" />
   </component>
 </project>
